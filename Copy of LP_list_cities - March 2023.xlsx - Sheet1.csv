@@ -1,0 +1,633 @@
+v_id,nom_district,v_nom,region
+2,Port Louis,Abercrombie,N 
+3,Rivière Noire - Black River,Albion,W 
+4,Moka,Alma,C 
+5,Rivière du Rempart,Amaury,N 
+6,Rivière du Rempart,Amitié,N 
+7,Rivière Noire - Black River,Anna,W 
+8,Rivière du Rempart,Anse Bonsergent,N 
+9,Grand Port,Anse Colas,S 
+10,Moka,Anse Courtois,C 
+11,Flacq,Anse Cunat,E 
+12,Grand Port,Anse du Grand Sable,S 
+13,Grand Port,Anse Fauverelle,S 
+14,Grand Port,Anse Hercule,S 
+15,Grand Port,Anse Jonchée,S 
+16,Rivière du Rempart,Anse la raie,N 
+17,Savanne,Anse St Martin,S 
+18,Rivière du Rempart,Antoinette,N 
+19,Flacq,Argy,E 
+20,Pamplemousses,Arsenal,N 
+21,Grand Port,Astroea,S 
+22,Plaines Wilhems,Bagatelle,C 
+23,Pamplemousses,Baie aux Tortues,N 
+25,Rivière Noire - Black River,Baie de la Petite Rivière,W 
+27,Savanne,Baie du Cap,S 
+28,Savanne,Baie du Jacotet,S 
+30,Pamplemousses,Baie du Tombeau,N 
+31,Pamplemousses,Balaclava,N 
+32,Rivière Noire - Black River,Bambous,W 
+33,Grand Port,Bambous Virieux,S 
+34,Plaines Wilhems,Bananes,C 
+35,Moka,Bar le Duc,C 
+36,Grand Port,Barachois Rochecouste,S 
+37,Rivière du Rempart,Barlow,N 
+38,Plaines Wilhems,Bassin,C 
+39,Rivière du Rempart,Bassin Bernard,N 
+40,Savanne,Bassin Blanc,S 
+41,Rivière du Rempart,Bassin Goëmons,N 
+42,Rivière du Rempart,Bassin Humbert,N 
+43,Savanne,Baty Mare,S 
+44,Plaines Wilhems,Beard,C 
+45,Plaines Wilhems,Beau Bassin,C 
+46,Moka,Beau Bois,C 
+47,Flacq,Beau Champ,E 
+48,Grand Port,Beau Climat,S 
+49,Grand Port,Beau Fond,S 
+50,Rivière du Rempart,Beau Manguier,N 
+51,Flacq,Beau Rivage,E 
+52,Rivière du Rempart,Beau Séjour,N 
+53,Pamplemousses,Beau Plan,N 
+54,Grand Port,Beau Site,S 
+55,Grand Port,Beau Vallon,S 
+56,Rivière Noire - Black River,Beaux Songes,W 
+57,Flacq,Bel Air,E 
+58,Flacq,Bel Etang,E 
+59,Savanne,Bel Ombre,S 
+60,Port Louis,Bell Village,N 
+61,Rivière Noire - Black River,Belle Eau,W 
+62,Rivière Noire - Black River,Belle Isle,W 
+63,Flacq,Belle Mare,E 
+64,Flacq,Belle Rive,E 
+65,Flacq,Belle Rose (Est),E 
+66,Plaines Wilhems,Belle Terre,C 
+67,Grand Port,Belle Vue (Sud),S 
+68,Pamplemousses,Belle Vue Harel,N 
+69,Rivière du Rempart,Belle Vue Maurel,N 
+70,Pamplemousses,Bellevue Pitot,N 
+71,Rivière du Rempart,Belmont,N 
+72,Flacq,Belvédère,E 
+73,Savanne,Bénarès,S 
+74,Plaines Wilhems,Bigara,C 
+75,Grand Port,Blue Bay,S 
+76,Savanne,Bois Chéri,S 
+77,Moka,Bois Clair,C 
+78,Grand Port,Bois des Amourettes,S 
+79,Flacq,Bois d'Oiseaux (Flacq - Belle Mare),E 
+80,Flacq,Bois d'Oiseaux (Trou d'Eau Douce - Bel Air),E 
+81,Grand Port,Bois d'Oiseaux (Rose Belle),S 
+82,Flacq,Bois Jacot,E 
+83,Pamplemousses,Bois Mangues,N 
+84,Pamplemousses,Bois Marchand,N 
+85,Pamplemousses,Bois Pignolet,N 
+86,Pamplemousses,Bois Rouge,N 
+87,Savanne,Bois Sec,S 
+88,Flacq,Bon Accueil,E 
+89,Pamplemousses,Bon Air,N 
+90,Savanne,Bon Courage,S 
+91,Rivière du Rempart,Bon Espoir,N 
+92,Flacq,Bonne Mère,E 
+93,Moka,Bonne Veine,C 
+94,Flacq,Bramsthan,E 
+95,Flacq,Bras de Mer Delcourt,E 
+96,Flacq,Bras d'Eau,E 
+97,Flacq,Brisée Verdière,E 
+98,Savanne,Britannia,S 
+99,Pamplemousses,Butte aux Papayes,N 
+100,Moka,Butte Chaumont,C 
+101,Rivière Noire - Black River,Cachette,W 
+102,Pamplemousses,Calebasses,N 
+103,Rivière du Rempart,Calodyne,N 
+104,Rivière Noire - Black River,Camp Benoît,W 
+105,Grand Port,Camp Carol,S 
+106,Flacq,Camp de Masque,E 
+107,Flacq,Camp de Masque Pavé,E 
+108,Savanne,Camp Diable,S 
+109,Plaines Wilhems,Camp Fouquereau,C 
+110,Flacq,Camp Ithier,E 
+111,Flacq,Camp Marcellin,E 
+112,Rivière du Rempart,Camp Pavé,N 
+113,Grand Port,Camp Poule,S 
+114,Plaines Wilhems,Camp Roche,C 
+115,Pamplemousses,Camp Scipion,N 
+116,Moka,Camp Thorel,C 
+117,Plaines Wilhems,Candos,C 
+118,Rivière Noire - Black River,Canot,W 
+119,Port Louis,Cantin's Peak,N 
+120,Pamplemousses,Canton Nancy,N 
+121,Rivière du Rempart,Cap Malheureux,N 
+122,Grand Port,Carreau Acacia,S 
+123,Rivière Noire - Black River,Case Noyale,W 
+124,Port Louis,Cassis,N 
+125,Rivière Noire - Black River,Cascavelle,W 
+126,Grand Port,Cent Gaulette,S 
+127,Rivière Noire - Black River,Chamarel,W 
+128,Savanne,Chamouny,S 
+129,Port Louis,Champ de Mars,N 
+130,Savanne,Château,S 
+131,Pamplemousses,Chateau de Villebague,N 
+132,Rivière Noire - Black River,Chebel,W 
+133,Savanne,Chemin Grenier,S 
+134,Flacq,Choisy,E 
+135,Moka,Circonstance,C 
+136,Rivière Noire - Black River,Clarence,W 
+137,Flacq,Clemencia,E 
+138,Grand Port,Cluny,S 
+139,Rivière du Rempart,Coin de Mire,N 
+140,Moka,Colline Alma,C 
+141,Port Louis,Colline Monneron,N 
+142,Savanne,Colmar,S 
+143,Pamplemousses,Congomah,N 
+144,Flacq,Constance,E 
+145,Plaines Wilhems,Coriolis,C 
+146,Plaines Wilhems,Coromandel,C 
+147,Moka,Côte d'Or,C 
+148,Rivière Noire - Black River,Coteau Raffin,W 
+149,Rivière du Rempart,Cottage,N 
+150,Savanne,Cratère Kanaka,S 
+151,Pamplemousses,Crève Coeur,N 
+152,Plaines Wilhems,Curepipe,C 
+153,Moka,Dagotière,C 
+154,Grand Port,Dalais,S 
+155,Flacq,Deep River,E 
+156,Pamplemousses,d'Epinay,N 
+157,Grand Port,Deux Bras,S 
+158,Moka,Dubreuil,C 
+159,Grand Port,Eau Bleue,S 
+160,Rivière Noire - Black River,Eau Bonne,W 
+161,Rivière Noire - Black River,Eau Bouillie,W 
+162,Plaines Wilhems,Eau Coulée,C 
+163,Plaines Wilhems,Ebène,C 
+164,Flacq,Ecroignard,E 
+165,Flacq,Ernest Florent,E 
+166,Moka,Espérance,C 
+167,Rivière du Rempart,Espérance Trébuchet,N 
+168,Flacq,F.U.E.L.,E 
+169,Savanne,Fantaisie,S 
+170,Grand Port,Ferney,S 
+171,Flacq,Flacq,E 
+172,Rivière Noire - Black River,Flic en Flac,W 
+173,Plaines Wilhems,Floréal,C 
+174,Pamplemousses,Fond du Sac,N 
+175,Savanne,Fontenelle,S 
+176,Rivière du Rempart,Forbach,N 
+177,Plaines Wilhems,Forest Side,C 
+178,Port Louis,Fort Adélaïde,N 
+179,Port Louis,Fort George,N 
+180,Port Louis,Fort Victoria,N 
+181,Port Louis,Fort Williams,N 
+182,Savanne,Frederica,S 
+183,Grand Port,Fressange,S 
+184,Plaines Wilhems,Galléa,C 
+185,Pamplemousses,Ganachaud,N 
+186,Plaines Wilhems,Glen Park,C 
+187,Rivière du Rempart,Gokoola,N 
+188,Rivière du Rempart,Goodlands,N 
+190,Pamplemousses,Gowsal,N 
+191,Rivière du Rempart,Grand Baie,N 
+192,Plaines Wilhems,Grand Bassin,C 
+193,Savanne,Grand Bois,S 
+194,Rivière du Rempart,Grand Gaube,N 
+195,Port Louis,Grand Glacis,N 
+196,Grand Port,Grand Sable,S 
+197,Flacq,Grande Retraite,E 
+198,Rivière Noire - Black River,Grande Rivière Noire,W 
+199,Port Louis,Grande Rivière Nord Ouest,N 
+200,Flacq,Grande Rivière Sud Est,E 
+201,Pamplemousses,Grande Rosalie,N 
+202,Rivière Noire - Black River,Grandes Gorges,W 
+203,Savanne,Gris Gris,S 
+204,Grand Port,Gros Billot,S 
+205,Grand Port,Gros Bois,S 
+206,Rivière Noire - Black River,Gros Cailloux,W 
+207,Rivière du Rempart,Haute Rive,N 
+208,Moka,Helvetia,C 
+209,Plaines Wilhems,Henrietta,C 
+210,Moka,Hermitage,C 
+211,Plaines Wilhems,Highlands,C 
+623,Port Louis,Sorèze,N 
+212,Grand Port,Ile aux Aigrettes,S 
+213,Rivière Noire - Black River,Ile aux Bénitiers,W 
+214,Flacq,Ile aux Cerfs,E 
+215,Flacq,Ile aux Chats,E 
+216,Grand Port,Ile aux Fous,S 
+217,Flacq,Ile aux Lubines,E 
+218,Grand Port,Ile aux Oiseaux,S 
+219,Port Louis,Ile aux Tonneliers,N 
+220,Port Louis,Ile Bakly,N 
+221,Flacq,Ile Camisard,E 
+222,Rivière du Rempart,Ile d'Ambre,N 
+223,Grand Port,Ile de la Passe,S 
+224,Flacq,Ile de l'Est,E 
+225,Grand Port,Ile des deux Cocos,S 
+226,Flacq,Ile Forancis,E 
+227,Flacq,Ile Malino,E 
+228,Grand Port,Ile Marianne,S 
+229,Rivière du Rempart,Ile Plate,N 
+230,Grand Port,Ile Vacoas,S 
+231,Grand Port,Ilot Chat,S 
+232,Flacq,Ilot des Roches,E 
+233,Rivière du Rempart,Ilot du Mort,N 
+234,Grand Port,Ilot Flamants,S 
+235,Rivière Noire - Black River,Ilot Fortier,W 
+236,Rivière Noire - Black River,Ilot Fourneau,W 
+237,Rivière du Rempart,Ilot Gabriel,N 
+238,Rivière Noire - Black River,Ilot Malais,W 
+239,Savanne,Ilot Sancho,S 
+240,Grand Port,Ilot Singe,S 
+241,Grand Port,Joli Bois,S 
+242,Moka,Junction Peak,C 
+243,Savanne,Jurançon,S 
+244,Grand Port,La Barraque,S 
+245,Plaines Wilhems,La Brasserie,C 
+246,Grand Port,La Cambuse,S 
+247,Flacq,La Caroline,E 
+248,Plaines Wilhems,La Caverne,C 
+249,Moka,La Chartreuse,C 
+250,Rivière Noire - Black River,La Chaumière,W 
+251,Grand Port,La Chaux,S 
+252,Flacq,La Commune,E 
+253,Rivière Noire - Black River,La Coupée St Martin,W 
+254,Rivière Noire - Black River,La Crète,W 
+255,Plaines Wilhems,La Croisée,C 
+256,Port Louis,La Fenêtre,N 
+257,Rivière Noire - Black River,La Ferme,W 
+258,Savanne,La Flora,S 
+259,Flacq,La Gaité,E 
+260,Rivière Noire - Black River,La Gaulette,W 
+261,Moka,La Laura,C 
+262,Pamplemousses,La Louisa,N 
+263,Plaines Wilhems,La Louise,C 
+264,Flacq,La Lucie Roy,E 
+265,Plaines Wilhems,La Marie,C 
+266,Rivière Noire - Black River,La Mecque,W 
+267,Rivière Noire - Black River,La Mivoie,W 
+268,Pamplemousses,La Nicolière,N 
+269,Flacq,La Nourrice,E 
+270,Moka,La Pipe,C 
+271,Rivière Noire - Black River,La Preneuse,W 
+272,Grand Port,La Rampe,S 
+273,Savanne,La Roche qui Pleure,S 
+274,Grand Port,La Rosa,S 
+275,Moka,La Russie,C 
+276,Grand Port,La Terre Rouge,S 
+277,Rivière du Rempart,Labourdonnais,N 
+278,Moka,l'Agrément,C 
+279,Flacq,Lallmatie,E 
+280,Moka,l'Avenir,C 
+281,Flacq,L'Aventure,E 
+282,Rivière Noire - Black River,Laviléon,W 
+283,Moka,Le Bocage,C 
+284,Rivière Noire - Black River,Le Bosquet,W 
+285,Grand Port,Le Bouchon,S 
+286,Grand Port,Le Chaland,S 
+287,Pamplemousses,Le Hochet,N 
+288,Pamplemousses,Le Goulet,N 
+289,Rivière Noire - Black River,Le Morne Brabant,W 
+290,Savanne,Le Petit Cap,S 
+291,Pamplemousses,Le Plessis,N 
+292,Moka,Le Réduit,C 
+293,Grand Port,Le Souffleur,S 
+294,Grand Port,Le Val,S 
+295,Grand Port,Le Vallon,S 
+296,Grand Port,Leboeuf,S 
+297,Rivière Noire - Black River,Le Morne,W 
+298,Rivière Noire - Black River,L'embrasure,W 
+299,Flacq,Lenferna,E 
+300,Grand Port,Les Mares,S 
+301,Pamplemousses,Les Mariannes,N 
+302,Rivière Noire - Black River,Les Salines,W 
+303,Flacq,Les Sept Chemins,E 
+304,Grand Port,L'Escalier,S 
+305,Flacq,Lesur,E 
+306,Flacq,l'Etoile,E 
+307,Grand Port,Ligne Barin,S 
+308,Plaines Wilhems,Ligne Barrique,C 
+309,Savanne,Luchon,S 
+310,Flacq,l'Unité,E 
+311,Savanne,Macondé,S 
+312,Grand Port,Madame Lolo,S 
+313,Rivière Noire - Black River,Magenta,W 
+314,Grand Port,Mahébourg,S 
+315,Grand Port,Malakoff,S 
+316,Moka,Malenga,C 
+317,Rivière du Rempart,Mapou,N 
+318,Savanne,Mare Anguilles,S 
+319,Flacq,Mare aux Fougères,E 
+320,Flacq,Mare aux Lubines,E 
+321,Plaines Wilhems,Mare aux Vacoas,C 
+322,Grand Port,Mare Chicose,S 
+323,Grand Port,Mare d'Albert,S 
+324,Flacq,Mare d'Australia,E 
+325,Flacq,Mare la Chaux,E 
+326,Plaines Wilhems,Mare Longue,C 
+327,Plaines Wilhems,Mare Ory,C 
+328,Flacq,Mare Sarcelles,E 
+329,Grand Port,Mare Tabac,S 
+330,Moka,Martindale,C 
+331,Rivière Noire - Black River,Médine,W 
+332,Moka,Melrose,C 
+333,Rivière du Rempart,Melville,N 
+334,Moka,Midlands,C 
+335,Moka,Minissy,C 
+336,Rivière du Rempart,Mlle Jeanne,N 
+337,Moka,Moka,C 
+338,Grand Port,Mon Désert,S 
+339,Moka,Mon Désert Alma,C 
+340,Rivière Noire - Black River,Mon Désir,W 
+341,Pamplemousses,Mon Gout,N 
+342,Rivière du Rempart,Mon Loisir,N 
+343,Pamplemousses,Mon Rocher,N 
+344,Rivière du Rempart,Mon Songe,N 
+345,Grand Port,Mon Trésor,S 
+346,Rivière Noire - Black River,Mon Vallon,W 
+347,Flacq,Mont Barbe,E 
+348,Savanne,Mont Blanc,S 
+349,Pamplemousses,Mon Choisy,N 
+350,Flacq,Mont Couve,E 
+351,Grand Port,Mont des Hollandais,S 
+352,Grand Port,Mont Fertile,S 
+353,Moka,Mont Ida,C 
+354,Rivière du Rempart,Mont Oreb,N 
+355,Plaines Wilhems,Mont Petit Malabar,C 
+356,Pamplemousses,Mont Piton,N 
+357,Flacq,Mont Ravat,E 
+358,Plaines Wilhems,Mont Roches,C 
+359,Rivière Noire - Black River,Mont St Pierre,W 
+360,Savanne,Mont Surinam,S 
+361,Flacq,Mont Villars,E 
+362,Grand Port,Montagne Bambou,S 
+363,Moka,Montagne Blanche,C 
+364,Rivière Noire - Black River,Montagne Brise Fer,W 
+365,Grand Port,Montagne Camisard,S 
+366,Flacq,Montagne Chat,E 
+367,Savanne,Montagne Cocotte,S 
+368,Rivière Noire - Black River,Montagne Corps de Garde,W 
+369,Flacq,Montagne de la Nicolière,E 
+370,Grand Port,Montagne des Créoles,S 
+371,Grand Port,Montagne du Lion,S 
+372,Moka,Montagne du Pouce,C 
+373,Rivière Noire - Black River,Montagne du Rempart,W 
+374,Flacq,Montagne Fayence,E 
+375,Rivière Noire - Black River,Montagne Jacquot,W 
+376,Moka,Montagne la Terre,C 
+377,Plaines Wilhems,Montagne Lagrave,C 
+378,Rivière Noire - Black River,Montagne Laporte,W 
+379,Moka,Montagne les Deux Mamelles,C 
+380,Pamplemousses,Montagne Longue,N 
+381,Flacq,Montagne Maurice,E 
+382,Flacq,Montagne Nouvelle Découverte,E 
+383,Moka,Montagne Ory,C 
+384,Plaines Wilhems,Montagne Perruche,C 
+385,Savanne,Montagne Savanne,S 
+386,Rivière Noire - Black River,Montagne Simonet,W 
+387,Grand Port,Montagne Table à Perrot,S 
+388,Rivière Noire - Black River,Montagne Trois Mamelles,W 
+389,Grand Port,Montagne Vernon,S 
+390,Rivière Noire - Black River,Montagnes Vacoas,W 
+391,Rivière Noire - Black River,Montée Bois Puant,W 
+392,Pamplemousses,Morcellement St André,N 
+393,Grand Port,Mouchoir Rouge,S 
+394,Pamplemousses,Moulin à Poudre,N 
+395,Rivière du Rempart,Moulin à Vent,N 
+396,Grand Port,New Grove,S 
+397,Pamplemousses,Notre Dame,N 
+398,Moka,Nouvelle Découverte,C 
+399,Grand Port,Nouvelle France,S 
+400,Flacq,Olivia,E 
+401,Moka,Pailles,C 
+402,Rivière Noire - Black River,Palma,W 
+403,Flacq,Palmar,E 
+404,Rivière Noire - Black River,Palmyre,W 
+405,Pamplemousses,Pamplemousses,N 
+406,Rivière du Rempart,Pavillon,N 
+407,Grand Port,Pavillon du Grand Port,S 
+408,Flacq,Pellegrin,E 
+409,Moka,Pépinière,C 
+410,Rivière du Rempart,Péreybère,N 
+411,Flacq,Petit Bois,E 
+412,Plaines Wilhems,Petit Camp,C 
+413,Rivière Noire - Black River,Petit Moka,W 
+414,Moka,Petit Paquet (Quartier Militaire),C 
+415,Rivière du Rempart,Petit Paquet (Grand Baie),N 
+416,Rivière du Rempart,Petit Raffray,N 
+417,Grand Port,Petit Sable,S 
+418,Moka,Petit Verger,C 
+419,Flacq,Petite Cabane,E 
+420,Rivière Noire - Black River,Petite Case Noyale,W 
+421,Pamplemousses,Petite Julie,N 
+422,Flacq,Petite Retraite,E 
+423,Rivière Noire - Black River,Petite Rivière,W 
+424,Rivière Noire - Black River,Rivière Noire,W 
+425,Plaines Wilhems,Phoenix,C 
+426,Moka,Pic des Guibies,C 
+427,Moka,Pic Seneque,C 
+428,Port Louis,Pieter Both,N 
+429,Rivière du Rempart,Piton,N 
+430,Savanne,Piton Capote,S 
+431,Moka,Piton du Milieu,C 
+432,Savanne,Piton Grand Bassin,S 
+433,Savanne,Piton Poule,S 
+434,Grand Port,Piton Rouge,S 
+435,Savanne,Piton Savanne,S 
+436,Rivière Noire - Black River,Piton St Denis,W 
+437,Pamplemousses,Plaine des Calebasses,N 
+438,Pamplemousses,Plaine des Papayes,N 
+439,Rivière du Rempart,Plaine des Roches,N 
+440,Port Louis,Plaine Lauzun,N 
+441,Grand Port,Plaine Magnien,S 
+442,Plaines Wilhems,Plaine Raoul,C 
+443,Plaines Wilhems,Plaine Sophie,C 
+444,Port Louis,Plaine Verte,N 
+445,Grand Port,Plaisance (Sud),S 
+446,Flacq,Pointe aux Boeufs,E 
+447,Pamplemousses,Pointe aux Canonniers,N 
+448,Rivière Noire - Black River,Pointe aux Caves,W 
+449,Grand Port,Pointe aux Feuilles,S 
+450,Pamplemousses,Pointe aux Piments,N 
+451,Rivière du Rempart,Pointe aux Roches,N 
+452,Rivière Noire - Black River,Pointe aux Sables,W 
+453,Grand Port,Pointe Bambou,S 
+454,Rivière du Rempart,Pointe Bernard,N 
+455,Rivière du Rempart,Pointe Bonhomme,N 
+456,Grand Port,Pointe Brocus,S 
+457,Rivière du Rempart,Pointe Butte aux Sables,N 
+458,Grand Port,Pointe Chaour,S 
+459,Savanne,Pointe Citronniers,S 
+460,Rivière Noire - Black River,Pointe Corail de la Prairie,W 
+461,Grand Port,Pointe Corps de Garde,S 
+462,Rivière du Rempart,Pointe d'Azur,N 
+463,Flacq,Pointe de Flacq,E 
+464,Flacq,Pointe de la Batterie,E 
+465,Grand Port,Pointe de la Colonie,S 
+466,Rivière Noire - Black River,Pointe de la Petite Rivière,W 
+467,Rivière du Rempart,Pointe de l'Embarcadère,N 
+468,Flacq,Pointe de Roches Noires,E 
+469,Grand Port,Pointe des Deux Cocos,S 
+470,Rivière Noire - Black River,Pointe des Pêcheurs,W 
+471,Grand Port,Pointe des Régates,S 
+472,Grand Port,Pointe d'Esny,S 
+473,Grand Port,Pointe du Diable,S 
+474,Grand Port,Pointe du Hangard,S 
+475,Flacq,Pointe du Puits des Hollandais,E 
+477,Rivière du Rempart,Pointe Eglise,N 
+478,Grand Port,Pointe Jérôme,S 
+479,Flacq,Pointe Lafayette,E 
+480,Rivière du Rempart,Pointe Lascar,N 
+481,Rivière du Rempart,Pointe l'Hortal,N 
+482,Rivière du Rempart,Pointe Madras,N 
+483,Rivière Noire - Black River,Pointe Marron,W 
+484,Rivière Noire - Black River,Pointe Moyenne,W 
+485,Rivière du Rempart,Pointe Oscorne,N 
+486,Flacq,Pointe Quatre Cocos,E 
+487,Flacq,Pointe Radeau,E 
+488,Rivière Noire - Black River,Pointe Sud Ouest,W 
+489,Grand Port,Pointe Vacoas,S 
+490,Savanne,Pomponnette,S 
+491,Flacq,Pont Blanc,E 
+492,Flacq,Pont Bon Dieu,E 
+493,Grand Port,Pont Colville,S 
+494,Flacq,Pont Lardier,E 
+495,Grand Port,Pont Molino,S 
+496,Grand Port,Pont Naturel,S 
+497,Flacq,Pont Praslin,E 
+498,Port Louis,Port Louis,N 
+499,Flacq,Poste de Flacq,E 
+500,Flacq,Poste Lafayette,E 
+501,Rivière du Rempart,Poudre d'Or,N 
+502,Rivière du Rempart,Poudre d'or Hamlet,N 
+503,Port Louis,Priest Peak,N 
+504,Moka,Providence,C 
+505,Moka,Quartier Militaire,C 
+506,Plaines Wilhems,Quatre Bornes,C 
+507,Flacq,Quatre Cocos,E 
+508,Flacq,Quatre Soeurs,E 
+509,Flacq,Queen Victoria,E 
+510,Plaines Wilhems,Quinze Cantons,C 
+512,Moka,Réservoir Piton Milieu,C 
+513,Plaines Wilhems,Réunion,C 
+514,Rivière du Rempart,Réunion Maurel,N 
+515,Savanne,Riambel,S 
+516,Flacq,Rich Fund,E 
+517,Savanne,Riche Bois,S 
+518,Grand Port,Riche en Eau,S 
+519,Flacq,Riche Mare,E 
+520,Pamplemousses,Riche Terre,N 
+521,Rivière Noire - Black River,Richelieu,W 
+522,Moka,Ripailles,C 
+523,Plaines Wilhems,River Side,C 
+524,Moka,Rivière Baptiste,C 
+525,Savanne,Rivière des Anguilles,S 
+526,Grand Port,Rivière des Créoles,S 
+527,Savanne,Rivière Dragon,S 
+528,Grand Port,Rivière du Poste,S 
+529,Rivière du Rempart,Rivière du Rempart,N 
+530,Flacq,Rivière Profonde,E 
+531,Flacq,Rivière Sèche,E 
+532,Pamplemousses,Roche Bois,N 
+533,Rivière du Rempart,Roche Terre,N 
+534,Grand Port,Rocher des Oiseaux,S 
+535,Rivière du Rempart,Roches Noires,N 
+536,Savanne,Rochester Falls,S 
+537,Grand Port,Rose Belle,S 
+538,Plaines Wilhems,Rose Hill,C 
+539,Moka,Roselyn Cottage,C 
+540,Pamplemousses,Rouge Terre,N 
+541,Grand Port,Ruisseau Copeau,S 
+542,Savanne,Ruisseau des Créoles,S 
+543,Pamplemousses,Ruisseau Rose,N 
+544,Moka,Salazie,C 
+545,Moka,Sans Soucis,C 
+546,Savanne,Savannah,S 
+547,Grand Port,Savinia,S 
+548,Rivière du Rempart,Schoenfeld,N 
+549,Flacq,Sébastopol,E 
+550,Plaines Wilhems,Solférino,C 
+551,Rivière du Rempart,St Antoine,N 
+552,Pamplemousses,Solitude,N 
+553,Rivière du Rempart,Sottise,N 
+554,Savanne,Souillac,S 
+555,Savanne,St Aubin,S 
+556,Savanne,St Félix,S 
+557,Rivière du Rempart,St François,N 
+558,Grand Port,St Hubert,S 
+559,Plaines Wilhems,St Jean,C 
+560,Flacq,St Julien,E 
+561,Flacq,St Julien d'Hotman,E 
+562,Moka,St Julien Hillock,C 
+563,Savanne,St Martin,S 
+564,Moka,St Pierre,C 
+565,Plaines Wilhems,Stanley,C 
+566,Port Louis,Ste Croix,N 
+567,Grand Port,Ste Hilaire,S 
+568,Grand Port,Ste Philomène,S 
+569,Flacq,Ste Ursule,E 
+570,Savanne,Surinam,S 
+571,Rivière Noire - Black River,Tamarin,W 
+574,Savanne,Terracine,S 
+575,Pamplemousses,Terre Rouge,N 
+576,Pamplemousses,The Mount,N 
+577,Rivière du Rempart,The Vale,N 
+578,Rivière Noire - Black River,Tour Martello de l'Harmonie,W 
+580,Port Louis,Tranquebar,N 
+581,Pamplemousses,Triolet,N 
+582,Grand Port,Trois Boutiques,S 
+583,Rivière Noire - Black River,Trois Cavernes,W 
+584,Pamplemousses,Trou aux Biches,N 
+585,Plaines Wilhems,Trou aux Cerfs,C 
+586,Grand Port,Trou Beloute,S 
+587,Plaines Wilhems,Trou de Madame Bouchet,C 
+588,Flacq,Trou d'Eau Douce,E 
+589,Savanne,Trou Desny,S 
+590,Port Louis,Trou Fanfaron,N 
+591,Grand Port,Trou Thomy,S 
+592,Rivière du Rempart,Union Maurel,N 
+593,Grand Port,Union Park,S 
+594,Savanne,Union St Aubin,S 
+595,Grand Port,Union Vale,S 
+596,Plaines Wilhems,Vacoas,C 
+597,Moka,Valetta,C 
+598,Port Louis,Vallée des Prêtres,N 
+599,Port Louis,Vallée du Pouce,N 
+600,Port Louis,Vallée Pitot,N 
+601,Pamplemousses,Valton,N 
+602,Moka,Verdun,C 
+603,Grand Port,Vieux Grand Port,S 
+604,Plaines Wilhems,Ville d'Avray,C 
+605,Grand Port,Ville Noire,S 
+606,Pamplemousses,Ville Valio,N 
+607,Pamplemousses,Villebague,N 
+608,Grand Port,Virginia,S 
+609,Port Louis,Virgin's Peak,N 
+610,Moka,Vuillemin,C 
+611,Rivière Noire - Black River,Wolmar,W 
+612,Plaines Wilhems,Wooton,C 
+613,Rivière Noire - Black River,Yemen,W 
+614,Plaines Wilhems,Pétrin,C 
+615,Plaines Wilhems,Trianon,C 
+622,Rivière du Rempart,Bain Boeuf,N 
+624,Plaines Wilhems,Roches Brunes,C 
+625,Grand Port,Caroline,S 
+626,Rodrigues,Rodrigues,
+628,Rivière du Rempart,Charmoze,N 
+629,Plaines Wilhems,Sodnac,C 
+630,Pamplemousses,Pointe aux Biches,N 
+631,Plaines Wilhems,Belle Rose (Centre),C 
+632,Savanne,Rivière des Galets,S 
+633,Rivière du Rempart,Forêt Daruty,N 
+634,Rivière Noire - Black River,Petite Rivière Noire,W 
+635,Rivière Noire - Black River,Pierrefonds,W 
+636,Rivière du Rempart,Mont Mascal,N 
+637,Rivière Noire - Black River,La Tour Koenig,W 
+638,Plaines Wilhems,Castel,C 
+639,Plaines Wilhems,Belle Étoile,C 
+640,Moka,Montebello,C 
+641,Pamplemousses,Khoyratty,N 
+642,Flacq,Providence sur mer,E 
+643,Plaines Wilhems,St Paul,C 
+644,Grand Port,Grand Bel Air,S 
+645,Grand Port,Petit Bel Air,S 
+646,Plaines Wilhems,Camp Levieux,C 
+647,Plaines Wilhems,Plaisance (Centre),C 
+648,Port Louis,Cité La Cure,N 
+649,Port Louis,Les Salines (Port Louis),N 
